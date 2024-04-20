@@ -1,2 +1,2 @@
-# ollama_experimentation
-Playing around with Ollama LLM
+# langchain_experimentation
+Playing around with LangChain LLMS, including Ollama
